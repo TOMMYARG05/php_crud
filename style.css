@@ -1,0 +1,20 @@
+body{background-image:url("https://assets.unenvironment.org/decadeonrestoration/2020-03/nature-3294681_1280%20%281%29.jpg");
+background-size:cover;
+background-repeat: no-repeat;
+background-attachment: fixed;
+}
+
+h1{color:white;
+text-align:center;}
+.card{
+    margin-left:1%;
+    padding:10px;
+}
+
+.table{
+    margin-left:250px;
+    float:left;
+    z-index:index;
+}
+
+.subid{padding:5px;}
